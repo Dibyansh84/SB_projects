@@ -1,1 +1,2 @@
-# SB_projects
+# SB_projects  
+#This is a monolithic Spring Boot application.
